@@ -1,0 +1,31 @@
+{
+  "name": "musical_tune_bot",
+  "version": "0.0.1",
+  "main": "tune.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bufferutil": "^4.0.1",
+    "cpu-stat": "^2.0.1",
+    "dbl-api": "^1.2.1",
+    "dblapi.js": "^2.3.0",
+    "dblposter": "^1.3.1",
+    "discord.js": "^11.4.2",
+    "erlpack": "^0.1.2",
+    "ffmpeg-binaries": "^4.0.0",
+    "fs": "^0.0.2",
+    "libsodium-wrappers": "^0.7.3",
+    "node-opus": "^0.3.1",
+    "node-superfetch": "^0.1.9",
+    "simple-youtube-api": "^5.1.1",
+    "superagent": "^4.0.0",
+    "uws": "^99.0.0",
+    "ytdl-core": "^0.28.3",
+    "snekfetch": "^4.0.4",
+    "moment": "^2.23.0"
+  },
+  "devDependencies": {},
+  "author": "LOL",
+  "license": "EPL-2.0"
+}
