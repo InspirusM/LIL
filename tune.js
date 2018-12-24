@@ -27,7 +27,7 @@ client.commands = fs.readdirSync('./commands');
 client.aliases = {};
 client.prefix = 'm!';
 
-const youtube = new YouTube(process.env.YOTUBE_KEY_KEY);
+const youtube = new YouTube(process.env.YOUTUBE_API_KEY);
 
 const DBL = require("dblapi.js");
 const dbl = new DBL(process.env.DBL_TOKEN, client);
